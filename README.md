@@ -7,7 +7,7 @@
 
 - 💬 Ask me about *Nestjs*
 
-- 📫 How to reach me **shamkhalhuseynzade26@gmail.con**
+- 📫 How to reach me **shamkhalhuseynzade26@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
